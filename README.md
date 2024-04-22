@@ -28,7 +28,7 @@
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img alt="daisyUI" src="https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white"/>
+  <img alt="daisyUI" src="https://img.shields.io/badge/-daisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white"/>
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white"/>
   <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
